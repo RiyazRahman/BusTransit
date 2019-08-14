@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BusTransit</string>
+
+    <string name="todo">TODO</string>
+
+    <string name="get_stops">Get Stops</string>
+    <string name="title_activity_bus">BusActivity</string>
+
+</resources>
